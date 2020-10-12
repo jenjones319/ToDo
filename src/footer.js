@@ -3,10 +3,10 @@ import "./styles.css";
 
 export default function () {
   return (
-    <nav>
+    <footer>
       <ul>
-        <li>Home</li>
+        <li>Jen Jones</li>
       </ul>
-    </nav>
+    </footer>
   );
 }
